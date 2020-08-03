@@ -99,4 +99,4 @@ class MyClient(discord.Client):
 
 client = MyClient()
 
-client.run('NzM5NTIyNTE2OTg4NzIzMjkw.XybsAw.hjIe-yPPzdDaep8muw_aDVvEXcA')
+client.run('Lo siento es privado ;)')
